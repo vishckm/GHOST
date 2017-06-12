@@ -1,0 +1,2 @@
+# GHOST
+Time to code
